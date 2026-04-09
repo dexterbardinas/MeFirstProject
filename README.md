@@ -9,8 +9,8 @@ This is my first web development project, created as a performance task for Grad
 To create a multimedia journal that preserves memories of my junior high school years while practicing HTML and CSS fundamentals.
 
 ### Features
-• esponsive layout for mobile and desktop.
-• Imaage gallery of school milestones.
+• Responsive layout for mobile and desktop.
+• Image gallery of school milestones.
 • Custom CSS styling (Glassmorphism/Aesthetic theme).
 
 ### What I Learned

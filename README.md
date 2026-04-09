@@ -10,10 +10,14 @@ To create a multimedia journal that preserves memories of my junior high school 
 
 ### Features
 • Responsive layout for mobile and desktop.
+
 • Image gallery of school milestones.
+
 • Custom CSS styling (Glassmorphism/Aesthetic theme).
 
 ### What I Learned
 • How to structure a multi-section webpage using HTML5.
+
 • How to use CSS Flexbox to align elements.
+
 • The process of deploying a site live using GitHub Pages.
